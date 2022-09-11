@@ -17,5 +17,6 @@ JSON object for city object courtesy of Openweathermaps
 
 
 
+![weather example](https://user-images.githubusercontent.com/108504537/189553401-225ea0f3-a90c-4109-a3e3-02c32cfbbffc.jpg)
 
 
