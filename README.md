@@ -9,10 +9,11 @@ JSON object for city object courtesy of Openweathermaps
 
 # Respository Link
 
-ellecox1.github.io/weather-dashboard
+https://github.com/chickengong/Weather-Dashboard
 
 # Web-site Link 
 
+ellecox1.github.io/weather-dashboard
 
 
 
