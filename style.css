@@ -1,0 +1,19 @@
+.minicard {
+  display: inline-block;
+  margin: 0.5em;
+  background-color: rgb(76, 196, 218);
+  color: white;
+}
+body {
+  background-color: #9b9998;
+  margin: 1em;
+}
+.historycard {
+  margin: 0.2em;
+}
+.historycard:hover {
+  background-color: gray;
+}
+.history {
+  margin-top: 1em;
+}
