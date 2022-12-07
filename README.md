@@ -13,7 +13,7 @@ https://github.com/chickengong/Weather-Dashboard
 
 # Web-site Link 
 
-ellecox1.github.io/weather-dashboard
+https://chickengong.github.io/Weather-Dashboard/
 
 
 
